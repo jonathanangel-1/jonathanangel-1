@@ -14,7 +14,7 @@ Each repository includes application source, an architecture guide, screenshots,
 
 ### JD Direct · Freight brokerage TMS, from RFQ to invoice
 
-[![JD Direct original TMS with fictional shipment data](https://raw.githubusercontent.com/jonathanangel-1/jd-direct-public/main/docs/images/demo.png)](https://github.com/jonathanangel-1/jd-direct-public)
+[![JD Direct original TMS with fictional shipment data](https://raw.githubusercontent.com/jonathanangel-1/jd-direct-public/6bcd5ae1af22848519fa0bb48049aaa16264dc0d/docs/images/demo.png)](https://github.com/jonathanangel-1/jd-direct-public)
 
 ### PQ Ops · Shipment evidence and decisions
 
