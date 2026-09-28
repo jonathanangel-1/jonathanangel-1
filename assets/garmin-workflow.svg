@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Garmin Training Lab</title>
+  <desc id="desc">Workflow diagram: training evidence, nine specialist reviews, and compared running plans.</desc>
+  <rect width="960" height="540" fill="#102d2b"/>
+  <path d="M0 435H960M0 375H960M0 315H960M0 255H960M0 195H960M120 170V470M240 170V470M360 170V470M480 170V470M600 170V470M720 170V470M840 170V470" stroke="#214440" stroke-width="1"/>
+  <text x="54" y="68" fill="#9fe4cf" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="4">DATA → REVIEW → PLAN</text>
+  <text x="54" y="130" fill="#f2faf7" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">Garmin Training Lab</text>
+  <path d="M55 370L111 370L136 349L160 374L187 275L215 413L244 331L280 345L308 311L342 333" fill="none" stroke="#8fe6c5" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M366 336H411M401 326L411 336L401 346M649 336H694M684 326L694 336L684 346" fill="none" stroke="#87aaa1" stroke-width="3"/>
+  <g fill="#9fe4cf">
+    <circle cx="475" cy="276" r="17"/><circle cx="530" cy="276" r="17"/><circle cx="585" cy="276" r="17"/>
+    <circle cx="475" cy="331" r="17"/><circle cx="530" cy="331" r="17"/><circle cx="585" cy="331" r="17"/>
+    <circle cx="475" cy="386" r="17"/><circle cx="530" cy="386" r="17"/><circle cx="585" cy="386" r="17"/>
+  </g>
+  <rect x="741" y="246" width="155" height="171" rx="12" fill="#183e38" stroke="#73bda3" stroke-width="2"/>
+  <g fill="none" stroke="#9fe4cf" stroke-width="4" stroke-linecap="round">
+    <path d="M762 281L769 288L781 273M798 281H873M762 329L769 336L781 321M798 329H855M762 377L769 384L781 369M798 377H867"/>
+  </g>
+  <g fill="#edf8f4" font-family="Arial, Helvetica, sans-serif" font-size="22" text-anchor="middle">
+    <text x="194" y="479">Training evidence</text>
+    <text x="530" y="479">9 specialist reviews</text>
+    <text x="817" y="479">Compared plans</text>
+  </g>
+</svg>
