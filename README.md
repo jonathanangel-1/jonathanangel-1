@@ -18,6 +18,7 @@ I learn by building. My background is in logistics; my work now spans AI tools, 
 
 ## Private work
 
+- **HandPilot (Dronevis)** — a macOS prototype that uses on-device hand tracking to turn palm gestures into drone commands on screen. Gesture testing only; no drone connection yet.
 - **Founders Brain** — a local research assistant for business history, with source citations.
 - **Local AI lab** — experiments with small models, writing workflows, and evaluation.
 - **Personal knowledge system** — organizing research, decisions, and context for AI agents.
