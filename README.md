@@ -1,6 +1,6 @@
 # Jonathan Angel
 
-I learn by building. My background is in logistics; my work now spans AI tools, decision-making, and creative experiments. I value curiosity, ownership, and testing ideas against evidence.
+I learn by building. With a background in logistics, I explore local AI, computer vision, and practical software. I'm drawn to hard problems, useful tools, and ideas I can test.
 
 ## Selected work
 
@@ -12,15 +12,15 @@ I learn by building. My background is in logistics; my work now spans AI tools, 
 | [PQ Ops](https://github.com/jonathanangel-1/pq-ops-public) | Turns shipment evidence and conflicting updates into clear next actions. |
 | [Logistics films](https://github.com/jonathanangel-1/History-of-logistics-vid) | Explores logistics through procedural animation and edited short films. |
 
-[Download the original two-minute logistics film](https://raw.githubusercontent.com/jonathanangel-1/History-of-logistics-vid/main/history_of_logistics_web.mp4) · [Latest Garmin release](https://github.com/jonathanangel-1/garmin-training-lab/releases/latest)
+[Get Garmin Training Lab](https://github.com/jonathanangel-1/garmin-training-lab/releases/latest) · [Download the original logistics film · 2 min](https://raw.githubusercontent.com/jonathanangel-1/History-of-logistics-vid/main/history_of_logistics_web.mp4)
 
 <sub>Angie, JD Direct, and PQ Ops include public demos with fictional data.</sub>
 
-## Private work
+## In the lab
 
-- **HandPilot (Dronevis)** — a macOS prototype that uses on-device hand tracking to turn palm gestures into drone commands on screen. Gesture testing only; no drone connection yet.
-- **Founders Brain** — a local research assistant for business history, with source citations.
+- **HandPilot** — a macOS prototype using local hand tracking, finger direction, and wrist gestures for drone-control experiments. Local command testing; no drone connected.
+- **Founders Brain** — a local research assistant for business history, with retrieval, source citations, and model-adaptation experiments.
 - **Local AI lab** — experiments with small models, writing workflows, and evaluation.
 - **Personal knowledge system** — organizing research, decisions, and context for AI agents.
 
-<sub>Public summaries only. Code, source material, and personal data remain private.</sub>
+<sub>These projects are private. Only their summaries are shared here.</sub>
